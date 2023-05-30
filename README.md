@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Jarod Reichel, but online I go by MCAdventureCity or MCA for short. I am a Minecraft YouTuber, Modder, and Modpack Developer, and I also enjoy Full-stack web development.
+[![mcadventurecity's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcadventurecity)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mcadventurecity/mcadventurecity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
